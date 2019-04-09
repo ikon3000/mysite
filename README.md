@@ -29,3 +29,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# How to push with vscode
+- CMD+Shift+G to access git view
+or the ![vscode git icon][./doc/git-vscode-icon.png]
+
+- Add message and press checkmark or CMD+Return
+
+- Click the sync in the status bar of vscode
+
+- wait for site builder
+
+- enjoy
