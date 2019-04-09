@@ -32,7 +32,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # How to push with vscode
 - CMD+Shift+G to access git view
-or the ![vscode git icon][https://github.com/ikon3000/mysite/raw/master/doc/git-vscode-icon.png]
+or the ![vscode git icon](https://github.com/ikon3000/mysite/raw/master/doc/git-vscode-icon.png)
 
 - Add message and press checkmark or CMD+Return
 
